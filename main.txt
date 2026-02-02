@@ -1,5 +1,8 @@
 First line of text from Ayush
 Feature branch line from feature branch
+SOME CHANGES FROM FEATURE BRANCH 1
+SOME CHANGES FROM FEATURE BRANCH 2
+SOME CHANGES FROM FEATURE BRANCH 3
 Line from develop branch
 line form feature f2 branch 
 New line by het
